@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "464225014670",
+    "project_id": "my-game-83fc6",
+    "storage_bucket": "my-game-83fc6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464225014670:android:3fe79ddeed59e779898adf",
+        "android_client_info": {
+          "package_name": "com.muffakir.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "464225014670-ulohgbai36krms6vjjljplavhg0imda9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGpXy4AmeFpqjLRMS8KzCh3k3pr-IGKVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "464225014670-ulohgbai36krms6vjjljplavhg0imda9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464225014670:android:3ed6ab039188a09c898adf",
+        "android_client_info": {
+          "package_name": "com.muffakir.regiesterapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "464225014670-ulohgbai36krms6vjjljplavhg0imda9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGpXy4AmeFpqjLRMS8KzCh3k3pr-IGKVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "464225014670-ulohgbai36krms6vjjljplavhg0imda9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
